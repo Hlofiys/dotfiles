@@ -1,0 +1,1422 @@
+ls
+nano .config/nushell/config.nu
+clear
+fastfetch 
+yay powershell
+nix flake
+ls
+cd Projects/
+ls
+cd EducationPlatformApp/
+ls
+nano .config/nushell/config.nu
+nano ~/.config/nushell/config.nu
+ls
+cd EducationPlatformApp/
+cd Projects/EducationPlatformApp/
+ls
+clear
+dotnet
+dotnet --list-sdks
+help shells
+shells
+clear
+nu oh-my.nu
+clear
+ls
+cd
+ls
+mkdir .local/nushell
+cd .local/nushell/
+cargo install --path .
+cargo install nu_plugin_gstat
+plugin add ~/.cargo/bin/nu_plugin_gstat
+cd
+cd Downloads/
+ls
+nu oh-my.nu
+use oh-my.nu 
+ls
+clear
+yay starship
+starship 
+starship init nu
+starship init nu > ~/.cache/starship/init.nu
+starship init nu | save -f ~/.cache/starship/init.nu
+use ~/.cache/starship/init.nu
+ls
+cd ..
+ls
+cd Projects/EducationPlatformApp/
+ls
+starship
+starship preset
+starship preset --help
+starship preset -l
+starship preset gruvbox-rainvow
+starship preset gruvbox-rainbow
+starship preset gruvbox-rainbow -o ~/.config/starship.toml
+clear
+ls
+cd ..
+ls
+cd BsacScheduleApp/
+ls
+starship
+starship completions
+starship completions nu
+ls
+nano ~/.config/nushell/config.nu
+echo $nu.config-path
+nano ~/.config/nushell/config.nu
+ls
+clear
+ls
+clear
+ls
+cd .config/fish/completions/
+ls
+cd ..
+ls
+cd
+ls
+starship completions nu
+ls
+cd Projects/
+ls
+gh
+gh repo clone hlofiys/nix-dotfiles
+ls
+cd nix-dotfiles/
+sl
+ls
+nix
+j
+clear
+ls
+cd ..
+ls
+cd EducationPlatformApp/
+ls
+cd Services/EmailService/
+ls
+nano ~/.config/nushell/config.nu
+yay oh-my-posh
+yay oh my posh
+curl -s https://ohmyposh.dev/install.sh | bash -s
+nano ~/.config/nushell/env.nu
+oh-my-posh 
+oh-my-posh config
+oh-my-posh init
+oh-my-posh init nu
+ls
+source .oh-my-posh.nu
+ls
+cd Projects/EducationPlatformApp/
+ls
+cd Services/EmailService/
+ls
+cd
+ls
+nano ~/.config/nushell/env.nu
+ls
+oh-my-posh init nu --config ./Downloads/atomic.omp.json
+ls
+clear
+ls
+oh-my-posh init nu --config ./Downloads/blueish.omp.json
+ls
+cd Projects/EducationPlatformApp/
+clear
+ls
+oh-my-posh init nu --config ./Downloads/clean-detailed.omp.json
+ls
+clear
+cd Projects/EducationPlatformApp/
+ls
+cd Services/EmailService/
+clear
+ls
+oh-my-posh init nu --config ./Downloads/hul10.omp.json
+ls
+clear
+ls
+cd Projects/EducationPlatformApp/
+cd Services/EmailService/
+ls
+oh-my-posh init nu --config ./Downloads/kushal.omp.json
+ls
+clear
+cd Services/EmailService/
+cd Projects/EducationPlatformApp/
+ls
+cd Services/EmailService/
+ls
+nano ~/.config/nushell/config.nu
+ls
+clear
+cd Projects/EducationPlatformApp/
+ls
+cd Services/EmailService/
+ls
+cd
+cd .config/
+cd
+nano ~/.config/starship.toml
+vim ~/.config/starship.toml
+cd Projects/EducationPlatformApp/Services/StatisticsService/
+ls
+cd ..
+vim ~/.config/starship.toml
+nano ~/.config/starship.toml
+ls
+nano ~/.config/starship.toml
+clear
+cd EmailService/
+ls
+cd ..
+ls
+cd ..
+ls
+nano flake.nix
+fastfetch 
+ls
+yay carapace-bin
+nano .config/nushell/env.nu
+nano .config/nushell/config.nu
+carapace 
+yay vincent
+ls
+export LS_COLORS=$(vivid generate dracula)
+$env:LS_COLORS = (vivid generate dracula)
+$env.LS_COLORS = (vivid generate dracula)
+yay vivit
+yay vivid
+$env.LS_COLORS = (vivid generate dracula)
+ls
+cd Projects/nix-dotfiles/nixos/
+ls
+cd ..
+ls
+cd nixos/
+ls
+cat configuration.nix 
+bat configuration.nix 
+clear
+iptables -A OUTPUT -p tcp -m string --string "account.jetbrains.com" --algo kmp -j REJECT
+sudo iptables -A OUTPUT -p tcp -m string --string "account.jetbrains.com" --algo kmp -j REJECT
+ssh prox-docker
+fastfetch 
+clear
+ls
+yay
+yay pop icon theme
+yay
+aura
+fastfetch 
+z
+yay zoxide
+yay atuine
+yay atuin
+atuin
+atuin init
+atuin init nu
+mkdir ~/.local/share/atuin/<\n>atuin init nu | save ~/.local/share/atuin/init.nu
+nano .config/nushell/config.nu
+z
+zoxide init nushell | save -f ~/.zoxide.nu
+nano .config/nushell/config.nu
+z
+cd
+cd Documents/
+ls
+cd
+cd Elden
+z Elden
+nano .config/nushell/config.nu
+alias
+alias cd=z
+alias cd z
+alias help
+tldr alias
+alias cd="z"
+alias cd = "z"
+alias cd = z
+nano .config/nushell/config.nu
+cd Bsac
+cd Stati
+ls
+cd Projects/EducationPlatformApp/Services/StatisticsService/
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+cd
+cd Services
+ls
+cd
+cd Serv
+ls
+clear
+ls
+cd Projects/nix-dotfiles/
+ls
+git status
+lazygit
+BASH
+yay
+ls
+cd Projects/nix-dotfiles/
+ls
+cd 
+sudo iptables -A OUTPUT -p tcp -m string --string "account.jetbrains.com" --algo kmp -j REJECT
+yay rpc
+sudo systemctl enable arrpc 
+sudo systemctl start arrpc 
+flatpak list
+arrpc 
+sudo net-stat
+yay net-sta
+yay net-staT
+yay net-stat
+sudo pacman -S nettools
+sudo pacman -S netools
+sudo pacman -S net-tools
+netstat -tunlp
+yay vesktop
+xeyes 
+yay rider
+flatpak list
+arrpc 
+sudo pacman -R arrpc
+vesktop --enable-features=UseOzonePlatform --ozone-platform=wayland
+netstat -tunlp
+arrpc
+yay arrpc
+arrpc
+systemctl stop --user arrpc.service
+arrpc
+yay
+yay zed
+yay eslint 
+ollama
+ollama ps
+docker start ollama
+ollama ps
+ollama list
+ollama rm llama3:
+ollama rm llama3:instruct 
+ollama rm starcoder2:3b 
+ollama list
+ollama run llama3.1:8b
+yay
+docker ps
+docker pull ollama:rocm
+docker login
+docker pull ollama:rocm
+docker pull ollama/ollama:rocm
+ollama run llama3.1:8b
+docker ps
+docker kill 62f3457adab2
+docker run -d --device /dev/kfd --device /dev/dri -v ollama:/root/.ollama -p 11434:11434 --name ollama ollama/ollama:rocm<\n>
+docker rm ollama
+docker run -d --device /dev/kfd --device /dev/dri -v ollama:/root/.ollama -p 11434:11434 --name ollama ollama/ollama:rocm
+ollama run llama3.1:8b
+sudo iptables -A OUTPUT -p tcp -m string --string "account.jetbrains.com" --algo kmp -j REJECT
+yay wezterm
+yay ttf-nerd-fonts-symbols
+ls
+clear
+wezterm 
+clear
+wezterm
+ls
+arrpc
+systemctl stop --user arrpc.service\
+systemctl stop --user arrpc.service
+systemctl disable --user arrpc.service
+ls
+clear
+docker container ls -f status=exited
+docker start postgres
+docker start silly-allen
+docker start silly_allen
+docker start ollama
+docker container prune
+docker image prune
+ls
+docker ps
+podman run -p 9000:9000 -p 9001:9001 \<\n>  quay.io/minio/minio server /data --console-address ":9001"<\n>
+docker run -p 9000:9000 -p 9001:9001 \<\n>  quay.io/minio/minio server /data --console-address ":9001"
+docker ps
+ls
+cd ..
+cd IdentityService/
+dotnet ef migrations add Minio
+nano ~/.config/fish/config.fish 
+nano ~/.config/nushell/config.nu
+nano ~/.config/nushell/env.nu 
+dotnet ef
+dotnet ef migrations add Minio
+cd IdentityService/
+cd Services/IdentityService/
+dotnet ef migrations add Minio
+cd Services/StorageService/
+dotnet run
+dotnet run
+ssh 192.168.1.32
+ssh 192.168.1.34
+yay linux-wallpaper
+docker start ollama
+yay
+sudo iptables -A OUTPUT -p tcp -m string --string "account.jetbrains.com" --algo kmp -j REJECT
+systemctl disable --user arrpc.service
+systemctl stop --user arrpc.service
+ды
+ls
+clear
+yay
+yay oh my git
+sudo iptables -A OUTPUT -p tcp -m string --string "account.jetbrains.com" --algo kmp -j REJECT
+systemctl stop --user arrpc.service
+yay
+sudo iptables -A OUTPUT -p tcp -m string --string "account.jetbrains.com" --algo kmp -j REJECT
+cd ..
+cd BranchService/
+dotnet ef migrations add MaxUsers
+cd ..
+cd IdentityService/
+yay
+sudo iptables -A OUTPUT -p tcp -m string --string "account.jetbrains.com" --algo kmp -j REJECT
+ls
+cd ..
+cd IdentityService/
+dotnet run
+cd Services/BranchService/
+ls
+dotnet run
+docker start postgres
+docker start rabbitmq
+docker start lazy_allien
+docker ps
+docker container ls -f status=exited
+docker start silly_allen
+ls
+docker ps
+dotnet run
+dotnet run
+yay
+shutdown -h now
+yay
+ssh micro1
+ssh micro2
+ssh root@micro2
+ssh root@micro1
+yay k3d
+yay k3s
+yay kind
+yay minikube
+yay k3d
+yay kubernetes
+yay minikube
+yay kind
+yay minikube
+yay kubectl
+minikube
+minikube start --driver=docker
+kubectl get po -A
+kubectl create deployment hello-minikube --image=kicbase/echo-server:1.0
+kubectl expose deployment hello-minikube --type=NodePort --port=8080
+kubectl get services hello-minikube
+minikube service hello-minikube
+kubectl delete services hello-minikube 
+kubectl get services hello-minikube
+kubectl create deployment balanced --image=kicbase/echo-server:1.0
+kubectl expose deployment balanced --type=LoadBalancer --port=8080
+kubectl get services balanced
+minikube tunnel
+kubectl delete deployments balanced
+kubectl get services balanced
+kubectl delete services balanced 
+kubectl get services balanced
+minikube stop
+yay
+sudo iptables -A OUTPUT -p tcp -m string --string "account.jetbrains.com" --algo kmp -j REJECT
+cd ..
+cd LevelService/
+chmod +x ./mvnw 
+git status
+chmod +x ./mvnw
+git status
+git add ./mvnw 
+git status
+git commit -m "mvnw +x"
+git push
+clear
+sudo iptables -A OUTPUT -p tcp -m string --string "account.jetbrains.com" --algo kmp -j REJECT
+cd ..
+cd IdentityService/
+dotnet build
+cd ..
+cD TaskService/
+cd TaskService/
+ls
+dotnet ef migrations add Message
+ssh 192.168.1.32
+sudo iptables -A OUTPUT -p tcp -m string --string "account.jetbrains.com" --algo kmp -j REJECT
+yay
+ssh 192.168.1.32
+ssh 192.168.1.34
+ssh root@micro2
+ssh root@micro1
+ssh 192.168.1.32
+ssh 192.168.1.30
+ssh 192.168.1.35
+ssh-copy-id -i ~/.ssh/id_rsa.pub 192.168.1.35
+ssh 192.168.1.35
+ssh 192.168.1.32
+sudo iptables -A OUTPUT -p tcp -m string --string "account.jetbrains.com" --algo kmp -j REJECT
+ssh 192.168.1.35
+yay
+find /mnt -name 'Ghost of Tsushima DIRECTOR'
+bash
+yay fd
+fd
+fd --help
+fd "Ghost of Tsushima DIRECTOR'S CUT"
+fd "Ghost of Tsushima DIRECTOR'S CUT" /
+sudo iptables -A OUTPUT -p tcp -m string --string "account.jetbrains.com" --algo kmp -j REJECT
+yay sfizz
+sfizz
+yay sfizz
+sfz
+yay carla
+sudo pacman -Rns ardour8 
+sudo pacman -Rns ardour
+yay salamander_piano
+ls
+git clone https://github.com/sfzinstruments/SalamanderGrandPiano.git
+yay lv2
+sudo pacman -S lv-plugins
+sudo pacman -S lv2-plugins
+pacmd load-module module-null-sink sink_name=MySink<\n>pacmd update-sink-proplist MySink device.description=MySink
+pacmd
+sudo modprobe snd_aloop
+yay jack
+pactl
+pactl load-module module-null-sink sink_name=Source<\n>pactl load-module module-virtual-source source_name=VirtualMic master=Source.monitor
+ls
+tar -xvf "./Salamander Grand Piano V3.sfz" 
+unzip
+unzip "./Salamander Grand Piano V3.sfz" 
+ls
+cd
+ls
+cd Downloads/
+ls
+tar -xvf ./SalamanderGrandPianoV3+20161209_48khz24bit.tar.xz 
+tar -xvf ./SalamanderGrandPianoV3+20161209_48khz24bit.tar.xz
+yay
+yay fb2
+yay reader
+yay okular
+yay calibre
+yay foliate
+yay
+pactl load-module module-null-sink sink_name=Source<\n>pactl load-module module-virtual-source source_name=VirtualMic master=Source.monitor<\n><\n>
+pactl load-module module-null-sink sink_name=Source<\n>pactl load-module module-virtual-source source_name=VirtualMic master=Source.monitor
+bluez
+yay blueman
+yay
+uname -r
+LS
+ls
+cd fastboot/
+ls
+adb sideload crDroidAndroid-14.0-20240909-amber-v10.8.zip 
+adb sideload NikGapps-crdroid-official-arm64-14-20240813-signed.zip 
+fastboot flash boot magisk_patched-27001_iNedB.img 
+fastboot reboot
+pactl load-module module-null-sink sink_name=Source<\n>pactl load-module module-virtual-source source_name=VirtualMic master=Source.monitor
+sudo iptables -A OUTPUT -p tcp -m string --string "account.jetbrains.com" --algo kmp -j REJECT
+yay qt-creator
+yay qt creator
+yay cheat engine
+topgrade
+pactl load-module module-null-sink sink_name=Source<\n>pactl load-module module-virtual-source source_name=VirtualMic master=Source.monitor
+topgrade
+sudo pacman -R blueman
+sudo pacman -Rns blueman
+yay portproton
+docker start ollama
+docker ps
+docker pull ollama/ollama:rocm
+yay ryzen-adj
+yay ryzenadj
+yay pgzip
+yay pigz
+yay pigz-gzip
+yay pigz
+pigz
+ln -s /usr/bin/pigz /usr/local/bin/gzip
+sudo ln -s /usr/bin/pigz /usr/local/bin/gzip
+ln -s /usr/bin/unpigz /usr/local/bin/gunzip
+sudo ln -s /usr/bin/unpigz /usr/local/bin/gunzip
+gzip
+sudo btrfs filesystem defragment --help
+sudo btrfs balance start /mnt/files/
+lsblk
+btrfs
+btrfs subvolume list
+btrfs subvolume list --help
+btrfs subvolume list /
+sudo btrfs subvolume list /
+yay libcamera
+yay
+yay mullvad
+sudo pacman -Rns mullvad-vpn 
+ls
+git clone https://copr-dist-git.fedorainfracloud.org/cgit/jonathanspw/tailscale/tailscale.git
+ls
+cd tailscale/
+ls
+nano create-vendor-tarball.sh 
+ls
+nano tailscaled.service 
+nano sources
+ls
+nano create-vendor-tarball.sh 
+nano sources 
+nano tailscale.spec 
+tito
+yay tito
+ls
+distrobox
+yay distrobox
+distrobox
+distrobox create
+distrobox create --help
+distrobox create --image registry.fedoraproject.org/fedora-toolbox:40 --name fedora 
+ls
+nano sources
+nano tailscale.spec
+sudo dnf
+nano create-vendor-tarball.sh
+nano tailscale.spec
+sudo dnf install tito
+tito
+ls
+nano tailscale.spec
+tito init
+ls
+rm -r .git/
+rm -r .tito
+tito init
+ls
+tito init
+ls
+git init
+git commit -m "first commit"<\n>git branch -M main<\n>git remote add origin https://github.com/Hlofiys/tailscale.git<\n>git push -u origin main
+git add *
+git commit -m "first commit"<\n>git branch -M main<\n>git remote add origin https://github.com/Hlofiys/tailscale.git<\n>git push -u origin main
+exit
+distrobox enter fedora
+ls
+git status
+git push -u origin main
+tito init
+ls
+tito build
+tito build --rpm --test
+ls
+cd tailscale/
+ls
+tito build --rpm --test
+sudo dnf builddep
+sudo dnf builddep tailscale.spec
+tito build --rpm --test
+ks
+ls
+nano sources
+ls
+sudo iptables -A OUTPUT -p tcp -m string --string "account.jetbrains.com" --algo kmp -j REJECT
+nano sources
+exit
+distrobox enter fedora
+cd ..
+rm -r tailscale/
+git clone https://gitlab.com/navid-m/teleport.git
+cd teleport/
+ls
+dotnet build
+nano teleport/Teleport.csproj 
+dotnet build
+ls
+dotnet ef migrations add Dates
+cd ..
+cd BranchService/
+dotnet ef migrations add RemovedUserList
+cd ..
+cd IdentityService/
+dotnet ef migrations add BranchList
+dotnet build
+ssh root@micro1
+ssh resofranxx@fedora
+flatpak install clion
+ssh resofranxx@fedora
+sudo iptables -A OUTPUT -p tcp -m string --string "account.jetbrains.com" --algo kmp -j REJECT
+yay
+xdg-mime query default inode/directory
+find /usr/share/applications/ -iname "*nautilus*"<\n>
+ls
+dotnet ef migrations add BranchList
+dotnet run
+dotnet ef migrations add BranchListNotNull
+dotnet run
+dotnet ef migrations add BranchListNotNull
+dotnet run
+ls
+dotnet ef migrations remove BranchList
+dotnet ef migrations remove --help
+dotnet ef migrations remove 
+dotnet ef migrations remove
+dotnet ef migrations add BranchList
+dotnet run
+dotnet ef database update
+ssh resofranxx@fedora
+clear
+flatpak search clion
+ssh resofranxx@fedora
+ssh ro
+ssh root@micro1
+ssh resofranxx@fedora
+ping 1.1.1.1
+ping 10.178.0.1
+ping 10.177.75.1
+ping 10.177.0.1
+ssh 192.168.1.1
+ssh root@192.168.1.1
+ping 1.1.1.1
+ssh root@192.168.1.1
+rm .ssh/known_hosts
+ssh root@192.168.1.1
+ssh 192.168.1.32
+ip addr
+tcpdump
+sudo tcpdump -pnvvi eth0 port 51413
+ip addr
+sudo tcpdump -pnvvi wlan0  port 51413
+ip addr
+sudo tcpdump -pnvvi wlan0 port 51413
+ssh root@192.168.1.1
+ssh resofranxx@fedora
+yay
+sudo iptables -A OUTPUT -p tcp -m string --string "account.jetbrains.com" --algo kmp -j REJECT
+ssh resofranxx@fedora
+sudo dnf se clangd
+sudo dnf se clang
+distrobox enter fedora
+ssh resofranxx@fedora
+ssh root@micro1
+ls
+cd ..
+ls
+cd BranchService/
+ls
+cd ..
+cd BranchService/
+dotnet run
+yay
+yay mesa git
+yay portproton
+flatpak remove 
+flatpak remove portproton
+portproton 
+yay ntfs
+yay rpcs3
+cd /var/log/
+ls
+df
+fd
+fd rpcs
+fd rpcs3
+fd rpcs3 ~/
+sudo nano /etc/security/limits.conf 
+sudo nano /etc/security/limits.conf
+sudo pacman -S realtime-privileges<\n>sudo usermod -a -G realtime $USER
+sudo pacman -S realtime-privileges<\n>sudo usermod -a -G realtime hlofiys
+groups
+sudo usermod -aG realtime hlofiys 
+groups
+yay
+yay rpcs3
+topgrade
+steam-native 
+yay
+steam-runtime 
+yay
+yay libalpm
+steam 
+yay mesa git
+sudo pacman -S mesa lib32-mesa xf86-video-amdgpu vulkan-radeon lib32-vulkan-radeon libva-mesa-driver lib32-libva-mesa-driver mesa-vdpau lib32-mesa-vdpau 0ad 
+sudo pacman -S mesa lib32-mesa xf86-video-amdgpu vulkan-radeon lib32-vulkan-radeon libva-mesa-driver lib32-libva-mesa-driver mesa-vdpau lib32-mesa-vdpau
+yay go
+yay rider
+yay golang
+yay goland
+yay gopls
+ls
+cd Projects/
+ls
+echo $nu.env-path.GOPATH
+go get -u github.com/gin-gonic/gin
+mkdir Go-Gin-Test
+cd Go-Gin-Test/
+ls
+go mod init
+go mod init Go-Gin-Test
+ls
+nano go.mod 
+cd ..
+rm -r Go-Gin-Test/
+mkdir go-gin-test
+cd go-gin-test/
+go mod init go-gin-test
+ls
+go get -u github.com/gin-gonic/gin
+go run main.go
+go install github.com/cosmtrek/air@latest
+go get github.com/lib/pq
+go get github.com/spf13/viper
+go install github.com/sqlc-dev/sqlc/cmd/sqlc@latest
+yay golang-migrate
+yay migrate
+yay migrate golang
+sudo iptables -A OUTPUT -p tcp -m string --string "account.jetbrains.com" --algo kmp -j REJECT
+cd ..
+ls
+cd IdentityService/
+ls
+ping 32.3.211.0
+yay
+yay migrate
+go --version
+go version 
+go install -tags 'postgres' github.com/golang-migrate/migrate/v4/cmd/migrate@latest
+migrate
+s
+ls
+go migrate
+ls
+go
+cd Projects/go-gin-test/
+ls
+go install -tags 'postgres' github.com/golang-migrate/migrate/v4/cmd/migrate@latest
+ls
+migrate
+cd 
+cd go/
+ls
+cdbils
+cd bin
+ls
+cd ..
+ls
+nano ~/.config/nushell/env.nu 
+ls
+cd Projects/go-gin-test/
+migrate
+docker start postgres
+ls
+docker ps
+mkdir -p db/migration
+mkdir db/migration
+ls
+cd db/
+sl
+cd ..
+ls
+migrate create -ext sql -dir db/migration -seq init_schema
+cd db/
+ls
+cd migration/
+ls
+nano 000001_init_schema.up.sql 
+cd ..
+ls
+cd migration/
+rm ./*
+ls
+cd ..
+cd .
+cd ..
+ls
+migrate create -ext sql -dir db/migration -seq init_schema
+ls
+migrate
+exut
+exit
+migrate
+migrate -path db/migration -database "postgresql://postgres:postgres@localhost:7000/contact_db?sslmode=disable" -verbose up
+docker exec -it postgres bash
+migrate -path db/migration -database "postgresql://postgres:postgres@localhost:7000/contact_db?sslmode=disable" -verbose up
+migrate -path db/migration -database "postgresql://postgres:postgres@localhost:7000/contact_db?sslmode=disable" -verbose down
+migrate -path db/migration -database "postgresql://postgres:postgres@localhost:7000/contact_db?sslmode=disable" -verbose up -force
+migrate -path db/migration -database "postgresql://postgres:postgres@localhost:7000/contact_db?sslmode=disable" -verbose up force
+migrate -path db/migration -database "postgresql://postgres:postgres@localhost:7000/contact_db?sslmode=disable" -verbose force 1
+migrate -path db/migration -database "postgresql://postgres:postgres@localhost:7000/contact_db?sslmode=disable" -verbose up
+migrate -path db/migration -database "postgresql://postgres:postgres@localhost:7000/contact_db?sslmode=disable" -verbose down
+migrate -path db/migration -database "postgresql://postgres:postgres@localhost:7000/contact_db?sslmode=disable" -verbose downy
+migrate -path db/migration -database "postgresql://postgres:postgres@localhost:7000/contact_db?sslmode=disable" -verbose down
+migrate -path db/migration -database "postgresql://postgres:postgres@localhost:7000/contact_db?sslmode=disable" -verbose up
+migrate -path db/migration -database "postgresql://postgres:postgres@localhost:7000/contact_db?sslmode=disable" -verbose down
+migrate -path db/migration -database "postgresql://postgres:postgres@localhost:7000/contact_db?sslmode=disable" -verbose force 1
+migrate -path db/migration -database "postgresql://postgres:postgres@localhost:7000/contact_db?sslmode=disable" -verbose downy
+migrate -path db/migration -database "postgresql://postgres:postgres@localhost:7000/contact_db?sslmode=disable" -verbose down
+migrate -path db/migration -database "postgresql://postgres:postgres@localhost:7000/contact_db?sslmode=disable" -verbose up
+migrate -path db/migration -database "postgresql://postgres:postgres@localhost:7000/contact_db?sslmode=disable" -verbose force 1
+migrate -path db/migration -database "postgresql://postgres:postgres@localhost:7000/contact_db?sslmode=disable" -verbose down
+migrate -path db/migration -database "postgresql://postgres:postgres@localhost:7000/contact_db?sslmode=disable" -verbose up
+migrate -path db/migration -database "postgresql://postgres:postgres@localhost:7000/contact_db?sslmode=disable" -verbose down
+migrate -path db/migration -database "postgresql://postgres:postgres@localhost:7000/contact_db?sslmode=disable" -verbose up
+ls
+sqlc init
+sqlc generate
+go mod tidy
+go get github.com/spf13/viper
+go install github.com/sqlc-dev/sqlc/cmd/sqlc@latest
+clear
+go install github.com/sqlc-dev/sqlc/cmd/sqlc@latest
+ai
+air
+go install github.com/sqlc-dev/sqlc/cmd/sqlc@latest<\n>go install github.com/cosmtrek/air@latest<\n>go get github.com/lib/pq<\n>go get github.com/spf13/viper<\n>go get -u github.com/gin-gonic/gin
+go install github.com/cosmtrek/air@latest
+go get github.com/lib/pq<\n>go get github.com/spf13/viper<\n>go get -u github.com/gin-gonic/gin
+go install github.com/sqlc-dev/sqlc/cmd/sqlc@latest -verbose
+go install github.com/sqlc-dev/sqlc/cmd/sqlc@latest --verbose
+go install github.com/sqlc-dev/sqlc/cmd/sqlc@latest -v
+go install -verbose github.com/sqlc-dev/sqlc/cmd/sqlc@latest
+go install -v github.com/sqlc-dev/sqlc/cmd/sqlc@latest
+sqlc
+air
+cd 
+cd go/bin
+ls
+go install github.com/air-verse/air@latest
+air
+go get github.com/google/uuid@none
+go get github.com/lib/pq<\n>go get github.com/spf13/viper
+go get -u github.com/gin-gonic/gin
+air
+go install github.com/swaggo/swag/cmd/swag@latest
+swag init
+swag fmt
+air
+swag init
+go get -u github.com/swaggo/swag/cmd/swag
+swag init
+air
+go run main.go
+go get github.com/swaggo/files
+go get github.com/swaggo/gin-swagge
+go get github.com/swaggo/gin-swagger
+go run main.go
+swag init
+go run main.go
+swag init
+go run main.go
+swag init
+go run main.go
+git status
+git push -u origin main
+git remote add origin https://github.com/Hlofiys/go-gin-test.git
+git config --global http.version HTTP/1.1
+git remote add origin https://github.com/Hlofiys/go-gin-test.git
+git push -u origin main
+ls
+ssh root@micro1
+sudo iptables -A OUTPUT -p tcp -m string --string "account.jetbrains.com" --algo kmp -j REJECT
+cd ..
+cd GroupService/
+ls
+cd ..
+cd TaskService/
+dotnet build
+dotnet run
+cd TaskService/
+cd Services/TaskService/
+cd TaskService/
+cd Services/
+cd TaskService/
+ls
+dotnet run
+1+1
+var
+2
+34+312
+2
+1213124124
+echo 2+2
+yay
+sudo iptables -A OUTPUT -p tcp -m string --string "account.jetbrains.com" --algo kmp -j REJECT
+ls
+go get go get github.com/jackc/pgx/v5
+go get github.com/jackc/pgx/v5
+sqlc generate
+docker start postgres
+swag init
+swag init --parseDependency
+air
+swag init --parseDependency
+air
+swag init --parseDependency
+air
+swag init --parseDependency
+air
+yay postman
+atac
+ls
+cd Projects/EducationPlatformApp/Services/IdentityService/
+ls
+dotnet run
+ды
+ls
+nano appsettings.Development.json 
+atac
+dotnet run
+atac
+dotnet run
+atac
+air
+go ftm
+go fmt 
+go fmt
+swag init --parseDependency
+air
+swag init --parseDependency
+air
+pactl load-module module-null-sink sink_name=Source<\n>pactl load-module module-virtual-source source_name=VirtualMic master=Source.monitor
+dotnet run
+dotnet ef migrations add UserRepeats
+dotnet run
+cd Services/TaskService/
+ls
+dotnet run
+sudo iptables -A OUTPUT -p tcp -m string --string "account.jetbrains.com" --algo kmp -j REJECT
+yay
+sudo tailscale
+sudo tailscale devices
+sudo tailscale status
+nano .config/nushell/config.nu
+plugin add ~/.cargo/bin/nu_plugin_gstat
+cargo install nu_plugin_gstat
+plugin add ~/.cargo/bin/nu_plugin_gstat
+ls
+sudo iptables -A OUTPUT -p tcp -m string --string "account.jetbrains.com" --algo kmp -j REJECT
+yay
+yay arnis
+cargo
+git clone https://github.com/louis-e/arnis.git
+cd arnis/
+ls
+cargo run --release -- --path="/home/hlofiys/.local/share/PrismLauncher/instances/Fabulously Optimized/.minecraft/saves/sus" --bbox="27.425308,53.833486,27.697220,53.972647"
+cargo run --release -- --path="/home/hlofiys/.local/share/PrismLauncher/instances/Fabulously Optimized/.minecraft/saves/sus" --bbox="27.603493,53.854552,27.680054,53.888457"
+cargo run --release -- --path="/home/hlofiys/.local/share/PrismLauncher/instances/Fabulously Optimized/.minecraft/saves/sus" --bbox="27.644734,53.866004,27.662673,53.873355"
+sudo dnf install iptables-persistent
+sudo iptables -A OUTPUT -p tcp -m string --string "account.jetbrains.com" --algo kmp -j REJECT
+ls
+cd Projects/
+ls
+mkdir go-oapi
+cd go-oapi/
+go mod init go-oapi
+# for the binary install<\n>go install github.com/oapi-codegen/oapi-codegen/v2/cmd/oapi-codegen@latest
+oapi-codegen 
+oapi-codegen -version
+nano spec
+oapi-codegen
+oapi-codegen --help
+oapi-codegen ./spec
+oapi-codegen ./spec > api.go
+oapi-codegen ./spec | save -f ./api.go
+go mod tidy
+oapi-codegen --helpo
+oapi-codegen --help
+oapi-codegen -generate "server" ./spec | save -f ./api.go
+oapi-codegen -generate "gin" ./spec | save -f ./api.go
+go mod tidy
+oapi-codegen -generate "chi-server" ./spec | save -f ./api.go
+go mod tidy
+oapi-codegen -generate "std-http-server" ./spec | save -f ./api.go
+cd 
+cd gen/
+ls
+go mod tidy
+yay reapi
+yay apicurio
+docker pull quay.io/apicurio/apicurio-studio:1.0.0.Beta1<\n>docker pull quay.io/apicurio/apicurio-studio-ui:1.0.0.Beta1
+docker run -it -p 8080:8080 quay.io/apicurio/apicurio-studio:1.0.0.Beta1
+docker run -it -p 8888:8080 quay.io/apicurio/apicurio-studio-ui:1.0.0.Beta1
+docker image prune
+ls
+cd Projects/
+ls
+rm -r go-oapi/
+https://github.com/oapi-codegen/oapi-codegen/tree/main/examples/minimal-server/stdhttp
+git clone https://github.com/oapi-codegen/oapi-codegen/tree/main/examples/minimal-server/stdhttp
+ls
+git clone https://github.com/oapi-codegen/oapi-codegen
+ls
+cd oapi-codegen/
+ls
+cd examples/
+ls
+cd minimal-server/
+ls
+cd ..
+cd minimal-server/
+ls
+cd stdhttp/
+ls
+cd ..
+cp stdhttp/ ~/Projects/
+cp -r stdhttp/ ~/Projects/
+cd
+cd Projects/
+ls
+rm -r oapi-codegen/
+mv stdhttp/ go-oapi-test
+go mod tidy
+ls
+ls
+cd go-oapi-test/
+cd ..
+cd go-gin-test/
+ls
+nano sqlc.yaml 
+ls
+cd db/sl
+cd db/
+ls
+cd migration/
+ls
+nano 000001_init_schema.down.sql 
+nano 000001_init_schema.up.sql 
+ls
+cd ..
+ls
+cd migration/
+ls
+go mod tidy
+ls
+migrate create -ext sql -dir db/migration -seq init_schema
+docker start postgres
+migrate -path db/migration -database "postgresql://postgres:postgres@localhost:7000/golang?sslmode=disable" -verbose up
+sqlc init
+migrate -path db/migration -database "postgresql://postgres:postgres@localhost:7000/golang?sslmode=disable" -verbose down
+migrate -path db/migration -database "postgresql://postgres:postgres@localhost:7000/golang?sslmode=disable" -verbose downy
+migrate -path db/migration -database "postgresql://postgres:postgres@localhost:7000/golang?sslmode=disable" -verbose down
+migrate -path db/migration -database "postgresql://postgres:postgres@localhost:7000/golang?sslmode=disable" -verbose up
+migrate -path db/migration -database "postgresql://postgres:postgres@localhost:7000/golang?sslmode=disable" -verbose down
+migrate -path db/migration -database "postgresql://postgres:postgres@localhost:7000/golang?sslmode=disable" -verbose up
+migrate -path db/migration -database "postgresql://postgres:postgres@localhost:7000/golang?sslmode=disable" -verbose down
+migrate -path db/migration -database "postgresql://postgres:postgres@localhost:7000/golang?sslmode=disable" -verbose up --force 
+migrate -path db/migration -database "postgresql://postgres:postgres@localhost:7000/golang?sslmode=disable" -verbose force 1
+migrate -path db/migration -database "postgresql://postgres:postgres@localhost:7000/golang?sslmode=disable" -verbose down
+migrate -path db/migration -database "postgresql://postgres:postgres@localhost:7000/golang?sslmode=disable" -verbose up
+migrate -path db/migration -database "postgresql://postgres:postgres@localhost:7000/golang?sslmode=disable" -verbose force 1
+migrate -path db/migration -database "postgresql://postgres:postgres@localhost:7000/golang?sslmode=disable" -verbose down
+migrate -path db/migration -database "postgresql://postgres:postgres@localhost:7000/golang?sslmode=disable" -verbose up
+sqlc generate
+go mod tidy
+clear
+ls
+go run main.go
+air 
+go mod tidy
+arrpc
+acorn 
+acorn
+yay acord
+yay acorn
+yay po
+yay postman
+air
+yay
+sudo iptables -A OUTPUT -p tcp -m string --string "account.jetbrains.com" --algo kmp -j REJECT
+air
+docker start postgres
+air
+atac
+air
+sqlc generate
+air
+git init
+rm -r .git/
+ls
+git add *
+git remove app.env
+git branch -M main<\n>git remote add origin https://github.com/Hlofiys/go-oapi-sqlc.git<\n>git push -u origin main
+yay
+nvim
+yay nvim
+yay neovim
+sudo pacman -S wl-clipboard 
+nvim
+sudo pacman -S ripgrep
+vimtutor 
+vim .vimrc
+evim
+vim .
+vim .vimrc 
+rm sus
+vim tutor 
+vim tutor
+git clone https://github.com/Hlofiys/kickstart.nvim.git
+cd kickstart.nvim/
+ls
+cd ..
+rm -r kickstart.nvim/
+https://github.com/Hlofiys/kickstart.nvim.git
+ls
+git clone https://github.com/Hlofiys/kickstart.nvim.git .config/nvim
+cd .config/nvim/
+ls
+nvim
+ls
+vim init.lua 
+nvim init.lua 
+nvim init.lua
+dotnet tool install --global csharp-ls
+nano .config/nushell/config.nu
+nano .config/nushell/env.nu 
+nvim init.lua
+cd 
+cd Projects/go-oapi-test/
+ls
+nvim
+nvim init.lua 
+nvim main.go 
+ls
+nvim api/impl.go 
+nvim init.lua
+nvim api/impl.go
+sudo iptables -A OUTPUT -p tcp -m string --string "account.jetbrains.com" --algo kmp -j REJECT
+go mod tidy
+air
+aiir
+air
+ls
+cd .idea/
+ls
+nano go-oapi-test.iml 
+air
+cd ..
+air
+sqlc generate
+air
+sqlc generate
+air
+cd
+cd Projects/EducationPlatformApp/Services/BranchService/
+nano appsettings.Development.json 
+dotnet run
+CGO_ENABLED=0 GOOS=linux go build -o branch-service .
+ls
+cd branch-service
+ls
+./branch-service
+air
+docker run -d -p 8080:8080 .
+docker run -d -p 8080:8080 . golang
+docker run -d -p 8080:8080 ./Dockerfile
+docker build .
+docker build . --tag gitea.hlofiys.xyz/hlofiys/task
+docker run -d -p 8080:8080 gitea.hlofiys.xyz/hlofiys/task task
+docker run -d -p 8080:8080 gitea.hlofiys.xyz/hlofiys/task
+docker image ls
+cd Projects/EducationPlatformApp/Services
+ls
+docker build ./Message.Dockerfile 
+cd ..
+cd .github/
+ls
+nano workflows/
+nano workflows/message.yml 
+cd ..
+nano docker-compose.yml 
+docker build ./Services/Message.Dockerfile 
+yay ggshield
+pipx install ggshield
+yay pipx
+pipx install ggshield
+ggshield 
+cd Projects/EducationPlatformApp
+ggshield secret scan repo .
+ggshield auth login
+ggshield secret scan repo .
+yay
+ls
+cd Projects/
+ls
+cd EducationPlatformApp/
+ls
+nvim
+cd .config/nvim/
+ls
+cd
+cd .config/nvim/
+ls
+nvim init.lua 
+nvim
+nvim init.lua
+cd
+cd Projects/go-oapi-test/
+nvim
+cd
+cd .config/nvim/
+nvim
+yay wezterm
+ls
+fastfetch 
+ls
+nvim .wezterm.lua
+nvim .wezterm.lua 
+nvim .wezterm.lua
+nu oh-my.nu
+nvim .config/nushell/config.nu 
+starship preset tokyo-night -o ~/.config/starship.toml
+clear
+nvim .config/starship.toml 
+nvim .config/starship.toml
+fas
+fastfetch 
+starship preset jetpack -o ~/.config/starship.toml
+clear
+fastfetch 
+cd Projects/go-oapi-test/
+starship preset nerd-font-symbols -o ~/.config/starship.toml
+clear
+cd ..
+ls
+cd EducationPlatformApp/
+ls
+starship preset tokyo-night -o ~/.config/starship.toml
+starship preset nerd-font-symbols -o ~/.config/starship.toml
+clear
+cd
+nvim .wezterm.lua 
+nvim .wezterm.lua
+xeyes 
+gsettings get org.gnome.desktop.interface cursor-theme
+clear
+nvim .wezterm.lua
+tmux
+yay tmux
+clear
+exit
+tmux --help
+:q
+exit
+tmux
+nvim .tmux.conf
+exit
+exit
+ls
+exit
+exit
+ls
+nvim .tmux.conf
+exit
+tmux
+nvim .tmux.conf
+ls
+exit
+exit
+exit
+ls
+exit
+pacman -Sy bash bc coreutils git jq playerctl
+sudo pacman -Sy bash bc coreutils git jq playerctl
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+nvim .tmux.conf
+exit
+exit
+tmux
+nvim .tmux.conf
+exit
+nvim
+nvim .tmux.conf
+exit
+tmux
+nvim
+ls
+cd Projects/EducationPlatformApp/
+sl
+ls
+nvim
+cd ..
+cd go-oapi-test/
+ls
+cd Projects/go-oapi-test/
+aur
+air
+clear
+tmux set @tokyo-night-tmux_window_id_style digital<\n>tmux set @tokyo-night-tmux_pane_id_style hsquare<\n>tmux set @tokyo-night-tmux_zoom_id_style dsquare
+set -g @tokyo-night-tmux_show_datetime 0<\n>set -g @tokyo-night-tmux_date_format MYD<\n>set -g @tokyo-night-tmux_time_format 12H
+exit
+cd Projects/go-oapi-test/
+at
+air
+exit
+atac
+exit
+nvim .tmux.conf
+exit
+fastfetch 
+s
+nvim .tmux.conf
+tmux --help
+tmux -L
+exit
+nvim
+exit
+tmux attach
+nvim .tmux.conf
+exi
+exit
+exit
+nvim
+exit
+tmux
+exit
+tmux
+tmux ls
+cd Projects/go-oapi-test/
+./branch-service
+ls
+yay hoppscotch
+yay bruno
+flatpak remove postman
+air
+exit
+tmux ls
+yay
+sudo pacman -Syuu
+sudo pacman -Syu
+yay
+yay -Syuu
+sudo pacman -R rpcs3 
+sudo pacman -R rpcs3-latest-bin
+yay rpcs3
+sudo pacman -S qt-quick3d
+yay qt-quick
+sudo pacman -S qt6-quick3d
+pacman -S chezmoi
+sudo pacman -S chezmoi
+nvim .wezterm.lua 
+chezmoi init
+chezmoi add .wezterm.lua
+chezmoi add .config/nushell/
