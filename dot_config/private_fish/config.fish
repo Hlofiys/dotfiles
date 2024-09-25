@@ -4,6 +4,7 @@ if status is-interactive
 #    eval (zellij setup --generate-auto-start fish | string collect)
 end
 theme_tokyonight night
+export PATH="/opt/homebrew/bin/:$PATH"
 export PATH="$PATH:$HOME/.dotnet/tools/"
 export PATH="$PATH:/home/hlofiys/go/bin/"
 export PATH="$PATH:/home/hlofiys/.local/bin/"
