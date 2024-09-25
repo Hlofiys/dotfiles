@@ -1420,3 +1420,118 @@ nvim .wezterm.lua
 chezmoi init
 chezmoi add .wezterm.lua
 chezmoi add .config/nushell/
+tmux attach
+ls
+clear
+ls
+claer
+clear
+tmux attach
+yay xonsh
+clear
+:q
+tmux attach
+tmux
+tmux attach
+tmux
+ls
+clear
+claer
+clear
+$env.PROMPT_COMMAND_RIGTH
+$env.PROMPT_COMMAND_RIGTH = sus
+$env.PROMPT_COMMAND_RIGTH = "sus"
+clear
+zellij
+yay zellij
+ls
+zellij --help
+ls
+exit
+fish
+tmux
+exit
+zellij
+ls
+fish
+exit
+fish
+exit
+chsh
+tmux
+clear
+ls
+tmux ls
+tmux kill-session 
+tmux ls
+tmux kill-session 
+tmux ls
+ls
+exit
+tmux
+nvim .wezterm.lua 
+clear
+exit
+exit
+ls
+exit
+ls
+exit
+nvim
+exit
+ls
+cd Projects/go-oapi-test/
+ls
+clear
+exit
+nvim
+exit
+nvim .wezterm.lua 
+exit
+nvim
+cd Projects/go-oapi-test/
+exit
+ls
+nvim
+exit
+nvim .wezterm.lua 
+exit
+wezterm connect unix
+nvim
+cd
+bash
+exit
+nvim .wezterm.lua 
+exit
+exit
+nvim
+exit
+cd .config/wekde/
+cd ..
+mkdir wezterm
+ls
+cd wezterm/
+ls
+git clone https://github.com/danielcopper/wezterm-session-manager.git
+exit
+/usr/bin/nvim .
+ls
+nvim .wezterm.lua 
+cd wezterm/
+cd .config/wezterm/
+ls
+rm -r wezterm-session-manager/
+cd ..
+rm -r wezterm/
+cd
+cd Projects/go-oapi-test/
+exit
+cd
+cd Projects/EducationPlatformApp/
+atac
+air
+clear
+yay
+chsh
+fish
+clear
