@@ -7,7 +7,7 @@ local config = wezterm.config_builder()
 config.font = wezterm.font("MesloLGS Nerd Font")
 config.font_size = 12
 
-config.color_scheme = "Tokyo Night"
+config.color_scheme = "Catppuccin Mocha"
 config.enable_tab_bar = true
 config.tab_bar_at_bottom = true
 config.use_fancy_tab_bar = false
