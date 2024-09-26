@@ -6,8 +6,12 @@ local config = wezterm.config_builder()
 -- This is where you actually apply your config choices
 config.font = wezterm.font("MesloLGS Nerd Font")
 config.font_size = 12
-
-config.color_scheme = "Catppuccin Mocha"
+local custom = wezterm.color.get_builtin_schemes()["Catppuccin Mocha"]
+custom.tab_bar.active_tab.bg_color = "#89b4fa"
+config.color_schemes = {
+	["OLEDppuccin"] = custom,
+}
+config.color_scheme = "OLEDppuccin"
 config.enable_tab_bar = true
 config.tab_bar_at_bottom = true
 config.use_fancy_tab_bar = false
