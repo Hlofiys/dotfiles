@@ -8,6 +8,7 @@ export PATH="/opt/homebrew/bin/:$PATH"
 export PATH="$PATH:$HOME/.dotnet/tools/"
 export PATH="$PATH:$HOME/go/bin/"
 export PATH="$PATH:$HOME/.local/bin/"
+export PATH="$PATH:$HOME/.cargo/bin/"
 direnv hook fish | source
 atuin init fish | source
 zoxide init fish | source
